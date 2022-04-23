@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-23T13:32:32+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-04-23T13:32:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-23T13:37:40+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-04-23T13:37:40+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 
-&lt;p&gt;分配作業:
- 一組8個人，需用solvespace，onshape，以及nx
- 分配結果:
- solvespace:40923201，40923208，40923217
- onshape:40923230，40923231，40923235
- nx12:40923205，40923210&lt;/p&gt;
+&lt;p&gt;分配作業:&lt;/p&gt;
+&lt;p&gt;一組8個人，需用solvespace，onshape，以及nx&lt;/p&gt;
+&lt;p&gt;分配結果:&lt;/p&gt;
+&lt;p&gt;solvespace:40923201，40923208，40923217&lt;/p&gt;
+&lt;p&gt;onshape:40923230，40923231，40923235&lt;/p&gt;
+&lt;p&gt;nx12:40923205，40923210&lt;/p&gt;
 &lt;p&gt;下面的網址是nx12的繪圖零件檔
  https://40923210.github.io/cd2022/downloads/drawing.mp4&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-03-31T15:30:44+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
