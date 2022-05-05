@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-05T14:22:50+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-04-23T13:37:40+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-05T14:27:32+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-04-23T13:37:40+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 
@@ -10,7 +10,7 @@
 &lt;p&gt;onshape:40923230，40923231，40923235&lt;/p&gt;
 &lt;p&gt;nx12:40923205，40923210&lt;/p&gt;
 &lt;p&gt;下面的網址是nx12的繪圖零件檔
- https://40923210.github.io/cd2022/downloads/drawing.mp4&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-05T14:22:50+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+ https://40923210.github.io/cd2022/downloads/drawing.mp4&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w2_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-05T14:27:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w2_40923210.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 &lt;p&gt;分組名單:&lt;/p&gt;
@@ -21,4 +21,5 @@
 &lt;p&gt;第五組:40923212    40923229 40923233 40923234 40923237 40923251 40923253 40971220&lt;/p&gt;
 &lt;p&gt;第六組:40723217    40923219 40923225 40923232 40923236 40923241 40923246 40923250&lt;/p&gt;
 &lt;p&gt;第七組:
-40723134 40723136 40732331 40923214 40923216 40923228 40923238 40923248 &lt;/p&gt;</content><category term="Misc"></category><category term="w2小組分組"></category></entry></feed>
+40723134 40723136 40732331 40923214 40923216 40923228 40923238 40923248 &lt;/p&gt;</content><category term="Misc"></category><category term="w2小組分組"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-05T14:27:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+</content><category term="Misc"></category><category term="w3 nx1980"></category></entry></feed>
