@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-26T13:03:09+08:00</updated><entry><title>W8 機械手臂繪製</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-14T13:20:00+08:00</published><updated>2022-05-26T13:03:09+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-14:./midterm.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-26T13:45:53+08:00</updated><entry><title>w10</title><link href="./w10.html" rel="alternate"></link><published>2022-04-28T13:20:00+08:00</published><updated>2022-05-26T13:45:53+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-28:./w10.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+
+
+&lt;p&gt;w10 block_ui&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/w10_block_ui.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;w10_nx_integ&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/w10_nx_integ.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;w10_ssh&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/ssh.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8 機械手臂繪製</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-14T13:20:00+08:00</published><updated>2022-05-26T13:03:09+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-14:./midterm.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 
