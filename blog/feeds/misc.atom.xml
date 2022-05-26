@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-26T12:54:56+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-05-05T15:41:56+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-26T12:58:27+08:00</updated><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-05-26T12:58:27+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 
@@ -8,9 +8,7 @@
 &lt;p&gt;分配結果:&lt;/p&gt;
 &lt;p&gt;solvespace:40923201，40923208，40923217&lt;/p&gt;
 &lt;p&gt;onshape:40923230，40923231，40923235&lt;/p&gt;
-&lt;p&gt;nx12:40923205，40923210&lt;/p&gt;
-&lt;p&gt;下面的網址是nx12的繪圖零件檔
- https://40923210.github.io/cd2022/downloads/drawing.mp4&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3 nx1980</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-26T12:54:56+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+&lt;p&gt;nx12:40923205，40923210&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3 nx1980</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-26T12:54:56+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 &lt;p&gt;指定任務:有 38 個比較接近 NX1980 版本功能的教學影片，以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理，完成後將所負責的 Wink 教學影片嵌入個人與大分組的 w3 中。&lt;/p&gt;
