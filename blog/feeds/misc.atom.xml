@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-09T14:20:08+08:00</updated><entry><title>w12</title><link href="./w12.html" rel="alternate"></link><published>2022-05-12T13:20:00+08:00</published><updated>2022-05-26T14:05:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-12:./w12.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-09T14:23:53+08:00</updated><entry><title>w13</title><link href="./w13.html" rel="alternate"></link><published>2022-05-19T13:20:00+08:00</published><updated>2022-06-09T14:23:53+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-19:./w13.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+
+&lt;p&gt;w13&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;請登入&amp;nbsp;&lt;/span&gt;&lt;a href="https://onedrive.live.com/"&gt;onedrive&lt;/a&gt;&lt;span&gt;&amp;nbsp;後, 觀看課程教學影片:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;1.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gmnfuedutw-my.sharepoint.com/:v:/g/personal/yen_gm_nfu_edu_tw/EcmwzqLi1_FEgyi7Gh3vOb8BoE9pYbbw6CLF17_brvJing?e=ff8b2d"&gt;cd2022_w13_2b_part1.mp4&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(NX 與 CoppeliaSim 整合應用項目說明)&lt;/p&gt;
+&lt;p&gt;2.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gmnfuedutw-my.sharepoint.com/:v:/g/personal/yen_gm_nfu_edu_tw/EegXPYSdUGJItXCyCsTtne8Bu0gGNgp7a7Kub3UO-wNPSQ?e=isZv8C"&gt;cd2022_w13_2b_part2.mp4&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(uArm 主體零件工程圖取尺寸流程說明)&lt;/p&gt;
+&lt;p&gt;3.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gmnfuedutw-my.sharepoint.com/:v:/g/personal/yen_gm_nfu_edu_tw/EcsSMO-AE7pHkgUbAvklEtABvb0_vlKVJZ5Q3Qqaql8MYQ?e=0xUVZK"&gt;cd2022_w13_2b_part3.mp4&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(說明如何在線上讀取各學員每週任務進度)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/mdecourse/e00a3b68d4defee1987d18cc998b377a/raw/76f525f56ce4def0316d4b46af8e9100f91c21c8/check_cd2022_page.py"&gt;check_cd2022_page.py&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2022_guide/blog/w12-nx-integrated-with-coppeliasim.html"&gt;NX 與 CoppeliaSim 整合&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/yen_gm_nfu_edu_tw/Eb_cz1VtR4pLl1-7BL6z_2MB-7Wwu1M2CQ8lndlVEBEQbw?e=cScxsY"&gt;mtb_nx.7z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img caption="false" height="233" src="https://mde.tw/cd2022_guide/images/MTB_in_NX12.png" width="400"&gt;&lt;/p&gt;
+&lt;p&gt;除 base fixed 外, 其餘轉動軸約束均以 align 結合 distance 定位:&lt;/p&gt;
+&lt;p&gt;&lt;img caption="false" height="249" src="https://mde.tw/cd2022_guide/images/MTB_align_distance.png" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;轉入 CoppeliaSim 4.3.0 rev3:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="202" src="https://mde.tw/cd2022_guide/images/MTB_nx_in_copsim.png" width="400"&gt;&lt;/p&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;nx及CoppeliaSim整合&lt;/p&gt;
+&lt;p&gt;下載CoppeliaSim EDU版&lt;/p&gt;
+&lt;p&gt;為CoppeliaSim第3版&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/1.png" width="1008"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;將圖檔導入CoppeliaSim&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/2.png" width="1008"&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w12</title><link href="./w12.html" rel="alternate"></link><published>2022-05-12T13:20:00+08:00</published><updated>2022-05-26T14:05:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-12:./w12.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 &lt;p&gt;各分組在執行 &lt;a href="https://mde.tw/cd2022_guide/content/w8%20%E4%BB%BB%E5%8B%99.html"&gt;w8 任務&lt;/a&gt;之後, 請回答下列問題:&lt;/p&gt;
