@@ -448,7 +448,8 @@ var winkVideoData = {
 <p><span><span><span><span><span><span>7.scarysim.bat<span>內容為下圖所示(找到自己檔案所在位置並複製檔案路徑)</span></span></span></span></span></span></span></p>
 <p><span><span><span><span><span><span><span><img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%877.png" width="1008"/></span></span></span></span></span></span></span></p>
 <p><span><span><span><span><span><span><span>8.更改後開啟 <span>scarysim.bat</span><span><span> </span>可顯示下圖紅框所示</span></span></span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span><span><span><img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%879.png" width="1008"/></span></span></span></span></span></span></span></span></p><h1>w8</h1>
+<p><span><span><span><span><span><span><span><span><img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%879.png" width="1008"/></span></span></span></span></span></span></span></span></p>
+<h1>w8</h1>
 <div class="winkVideoPlayOverlayClass"></div>
 <p>繪製零件檔</p>
 <p>
@@ -699,8 +700,40 @@ var winkVideoData = {
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
 <div class="winkVideoControlBarProgressRightClass"></div>
+<h2>w16</h2>
+<div class="winkVideoPlayOverlayClass"><span>線上課程影片:</span></div>
+<div class="winkVideoPlayOverlayClass">
+<p><a href="https://gmnfuedutw-my.sharepoint.com/:v:/g/personal/yen_gm_nfu_edu_tw/EbAlwOD__R9Etqr8HHE4xz4BkPF3ZxHs--_OR8b0vMBRVQ">cd2022_w16_2b_part1.mp4</a><span> </span>(以下範例的 demo 說明)</p>
+<p><a href="https://gmnfuedutw-my.sharepoint.com/:v:/g/personal/yen_gm_nfu_edu_tw/ET5nXVwHyCFJmv0J4mQNteIBUZ1iRWW-yJNCgLaMesskZQ?e=oGZDrx">cd2022_w16_2b_part2.mp4</a><span> </span>(rotating cuboid 與 vision sensor 在 remote API 與網際介面環境下的應用)</p>
+<p><a href="https://gmnfuedutw-my.sharepoint.com/:v:/g/personal/yen_gm_nfu_edu_tw/EdxLGcSqPupOqk-re8LdhkEB-XhuhV6zsiZdOMi8sYT9MA?e=Cbyi0a">cd2022_w16_2b_part3.mp4</a><span> </span>(說明 CoppeliaSim 4.3.0 visualization stream 功能應用)</p>
+<h3>Visualization Stream</h3>
+<ol>
+<li>在 uArm 場景伺服器端, 解開壓縮檔案後, 以 CoppeliaSim 4.3.0 rev3 開啟 uarm_nx_tkinter_gui_control.ttt 或 uarm_nx_tkinter_gui_control_exhaustive.simscene.xml.</li>
+<li>啟動模擬之前, 從 Modules 下拉式表單中的 Connectivity 右方表單中, 點選 Visualization Stream, 表示要啟動場景的視覺串流伺服器.</li>
+<li>確定 Visualization Stream 顯示 running 後, 啟動 uarm_nx_tkinter_gui_control 場景模擬.</li>
+<li>從 <a href="https://github.com/CoppeliaRobotics/threejsFrontend/blob/master/simAddOnVisualization%20stream.lua#L17">simAddOnVisualization stream.lua</a><span> </span>串流程式可知內定連線 port 為 23020 或可自行設定連線埠號, 並讓串流伺服器端的防火牆允許遠端特定的電腦 client 連線.</li>
+<li>最後在 client 端以 SciTE 開啟 <a href="https://github.com/mdecycu/cd2022_guide/blob/main/downloads/w15/tkinter_control/uarm_tkinter_control.py#L61">uarm_tkinter_control.py</a><span> </span>配合修改串流伺服器對應的 IP 與埠號後執行. 便可透過瀏覽器檢視經由遠端 tkinter 介面控制下的 uArm 機械手臂各軸模擬運動.</li>
+</ol>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData" height="630" width="1008"> muted="true"&gt;
+      <source src="/downloads/w16-1.mp4" type="video/mp4"/>
+</video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
-</div>
+</div></div></div></div>

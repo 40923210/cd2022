@@ -2,7 +2,7 @@
         <head>
         <title>cmsimde_site</title>
         <meta charset="utf-8">
-<meta property="head" content="H1">
+<meta property="head" content="H3">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
         <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
@@ -139,19 +139,37 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">w12 << <a href='w12.html'>Previous</a> <a href='w13.html'>Next</a> >> w13<br /><h1>online</h1>
-<p></p>
-<p>為配合學校因應疫情所作的課程教學措施:</p>
-<p>線上教學訊息發布區:<a href="https://gitter.im/mdecourse/cd2022"> https://gitter.im/mdecourse/cd2022</a></p>
-<p>線上同步教學系統:<a href="https://teams.microsoft.com">https://teams.microsoft.com</a> (請利用 @gm 註冊帳號後, 每週透過 Team code 進入 channel 上課)</p>
-<p>協同產品設計實習課程倉儲:<a href="https://github.com/mdecycu/cd2022_guide"> https://github.com/mdecycu/cd2022_guide</a></p>
-<p>協同產品設計實習課程網頁: <a href="https://mde.tw/cd2022_guide">https://mde.tw/cd2022_guide</a></p>
-<p>課程相關檔案下載: <a href="http://wcm.cycu.org:88/">http://wcm.cycu.org:88/ </a>(請設定 17.4 代理主機, 並輸入認證帳號與密碼後連線下載)</p>
-<p></p>
-<div class="winkVideoPlayOverlayClass">
-<p><img alt="" class="add_border" height="492" src="https://mde.tw/cd2022_guide/images/20220517_online_learning.png" width="800"/></p>
+    <div id="tipue_search_content">w16 << <a href='w16.html'>Previous</a> <br /><h1>Visualization Stream</h1>
+<ol>
+<li>在 uArm 場景伺服器端, 解開壓縮檔案後, 以 CoppeliaSim 4.3.0 rev3 開啟 uarm_nx_tkinter_gui_control.ttt 或 uarm_nx_tkinter_gui_control_exhaustive.simscene.xml.</li>
+<li>啟動模擬之前, 從 Modules 下拉式表單中的 Connectivity 右方表單中, 點選 Visualization Stream, 表示要啟動場景的視覺串流伺服器.</li>
+<li>確定 Visualization Stream 顯示 running 後, 啟動 uarm_nx_tkinter_gui_control 場景模擬.</li>
+<li>從 <a href="https://github.com/CoppeliaRobotics/threejsFrontend/blob/master/simAddOnVisualization%20stream.lua#L17">simAddOnVisualization stream.lua</a><span> </span>串流程式可知內定連線 port 為 23020 或可自行設定連線埠號, 並讓串流伺服器端的防火牆允許遠端特定的電腦 client 連線.</li>
+<li>最後在 client 端以 SciTE 開啟 <a href="https://github.com/mdecycu/cd2022_guide/blob/main/downloads/w15/tkinter_control/uarm_tkinter_control.py#L61">uarm_tkinter_control.py</a><span> </span>配合修改串流伺服器對應的 IP 與埠號後執行. 便可透過瀏覽器檢視經由遠端 tkinter 介面控制下的 uArm 機械手臂各軸模擬運動.</li>
+</ol>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="630" width="1008"> muted="true"&gt;
+      <source src="./../downloads/w16-1.mp4" type="video/mp4"/>
+</video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
-<br />w12 << <a href='w12.html'>Previous</a> <a href='w13.html'>Next</a> >> w13</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div></div></div></div><br />w16 << <a href='w16.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
