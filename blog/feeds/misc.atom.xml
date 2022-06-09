@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-26T14:05:32+08:00</updated><entry><title>w12</title><link href="./w12.html" rel="alternate"></link><published>2022-05-12T13:20:00+08:00</published><updated>2022-05-26T14:05:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-12:./w12.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-09T14:20:08+08:00</updated><entry><title>w12</title><link href="./w12.html" rel="alternate"></link><published>2022-05-12T13:20:00+08:00</published><updated>2022-05-26T14:05:32+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-12:./w12.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 &lt;p&gt;各分組在執行 &lt;a href="https://mde.tw/cd2022_guide/content/w8%20%E4%BB%BB%E5%8B%99.html"&gt;w8 任務&lt;/a&gt;之後, 請回答下列問題:&lt;/p&gt;
@@ -174,16 +174,30 @@ var winkVideoData = {
 &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
-&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-05-26T12:58:27+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7 機械手臂</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-07T13:20:00+08:00</published><updated>2022-06-09T14:20:08+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-04-07:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
-
-&lt;p&gt;分配作業:&lt;/p&gt;
-&lt;p&gt;一組8個人，需用solvespace，onshape，以及nx&lt;/p&gt;
-&lt;p&gt;分配結果:&lt;/p&gt;
-&lt;p&gt;solvespace:40923201，40923208，40923217&lt;/p&gt;
-&lt;p&gt;onshape:40923230，40923231，40923235&lt;/p&gt;
-&lt;p&gt;nx12:40923205，40923210&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3 nx1980</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-26T12:54:56+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+&lt;p&gt;w7&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;在系上網段, 可直接從&amp;nbsp;&lt;/span&gt;&lt;a href="http://wcm.cycu.org:88/"&gt;http://wcm.cycu.org:88&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;下載.&lt;/span&gt;&lt;a href="http://wcm.cycu.org:88/compile_copsim_cd2022.7z"&gt;compile_copsim_cd2022.7z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;將自己的倉儲&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;span&gt;git clone --recurse-submodules 倉儲網址&lt;/span&gt;&amp;nbsp;到compile_copsim_cd2022\data\tmp中&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%871.png" width="1008"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;跟著&lt;a href="https://mde.tw/cd2022_guide/content/w7%20%E4%BB%BB%E5%8B%99.html"&gt;W7任務&lt;/a&gt;步驟開始執行&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1.&lt;/span&gt;&lt;span&gt;git clone&amp;nbsp;&lt;a href="https://github.com/mdecourse/scarysim.git"&gt;https://github.com/mdecourse/scarysim.git&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%872.png" width="1008"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;2.修改&amp;nbsp;&lt;span&gt;scarysim.pro&lt;/span&gt;&lt;span&gt;, 蓋掉第 11 行, 成為&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;#&lt;/span&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;LIBS&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; += -lglut -lGLU&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%878.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;3.&lt;span&gt;cd scarysim&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%873.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;4.&lt;span&gt;qmake -o Makefile scarysim.pro&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%874.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;5.&lt;span&gt;mingw32-make -f Makefile.Release&lt;/span&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;可以在 release 目錄取得 scarysim.exe&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%875.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;6.&lt;span&gt;將&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;scarysim.exe&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;移至&lt;span&gt;倉儲根目錄&lt;/span&gt;, 並且需要 msys64_20210419\mingw64\bin 路徑中的 dll 動態連結程式庫配合執行.新創一個&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;scarysim.bat&lt;/span&gt;。&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%876.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;7.scarysim.bat&lt;span&gt;內容為下圖所示(找到自己檔案所在位置並複製檔案路徑)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%877.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;8.更改後開啟&amp;nbsp;&lt;span&gt;scarysim.bat&lt;/span&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;可顯示下圖紅框所示&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img alt="" height="630" src="https://40923210.github.io/cd2022/images/%E5%9C%96%E7%89%879.png" width="1008"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w3 nx1980</title><link href="./w6_40923210.html" rel="alternate"></link><published>2022-03-31T13:20:00+08:00</published><updated>2022-05-26T12:54:56+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-03-31:./w6_40923210.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 &lt;p&gt;指定任務:有 38 個比較接近 NX1980 版本功能的教學影片，以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理，完成後將所負責的 Wink 教學影片嵌入個人與大分組的 w3 中。&lt;/p&gt;
