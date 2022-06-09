@@ -431,7 +431,24 @@ var winkVideoData = {
 <h1>w7</h1>
 <p><span>在系上網段, 可直接從 </span><a href="http://wcm.cycu.org:88/">http://wcm.cycu.org:88</a><span><span> </span>下載.</span><a href="http://wcm.cycu.org:88/compile_copsim_cd2022.7z">compile_copsim_cd2022.7z</a></p>
 <p><span>將自己的倉儲</span><span> <span>git clone --recurse-submodules 倉儲網址</span> 到compile_copsim_cd2022\data\tmp中</span></p>
-<p><span></span></p><h1>w8</h1>
+<p><span><img alt="" height="630" src="/images/圖片1.png" width="1008"/></span></p>
+<p><span></span>跟著<a href="https://mde.tw/cd2022_guide/content/w7%20%E4%BB%BB%E5%8B%99.html">W7任務</a>步驟開始執行</p>
+<p><span>1.</span><span>git clone <a href="https://github.com/mdecourse/scarysim.git">https://github.com/mdecourse/scarysim.git</a></span></p>
+<p><span><img alt="" height="630" src="/images/圖片2.png" width="1008"/></span></p>
+<p><span>2.修改 <span>scarysim.pro</span><span>, 蓋掉第 11 行, 成為<span> </span></span><span>#</span><span><span> </span>LIBS     += -lglut -lGLU</span></span></p>
+<p><span><span><img alt="" height="630" src="/images/圖片8.png" width="1008"/></span></span></p>
+<p><span><span>3.<span>cd scarysim</span></span></span></p>
+<p><span><span><span><img alt="" height="630" src="/images/圖片3.png" width="1008"/></span></span></span></p>
+<p><span><span><span>4.<span>qmake -o Makefile scarysim.pro</span></span></span></span></p>
+<p><span><span><span><span><img alt="" height="630" src="/images/圖片4.png" width="1008"/></span></span></span></span></p>
+<p><span><span><span><span>5.<span>mingw32-make -f Makefile.Release</span><span><span> </span>可以在 release 目錄取得 scarysim.exe</span></span></span></span></span></p>
+<p><span><span><span><span><span><img alt="" height="630" src="/images/圖片5.png" width="1008"/></span></span></span></span></span></p>
+<p><span><span><span><span><span>6.<span>將<span> </span><span>scarysim.exe</span><span> </span>移至<span>倉儲根目錄</span>, 並且需要 msys64_20210419\mingw64\bin 路徑中的 dll 動態連結程式庫配合執行.新創一個<span> </span><span>scarysim.bat</span>。</span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><img alt="" height="630" src="/images/圖片6.png" width="1008"/></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span>7.scarysim.bat<span>內容為下圖所示(找到自己檔案所在位置並複製檔案路徑)</span></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span><img alt="" height="630" src="/images/圖片7.png" width="1008"/></span></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span>8.更改後開啟 <span>scarysim.bat</span><span><span> </span>可顯示下圖紅框所示</span></span></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span><span><img alt="" height="630" src="/images/圖片9.png" width="1008"/></span></span></span></span></span></span></span></span></p><h1>w8</h1>
 <div class="winkVideoPlayOverlayClass"></div>
 <p>繪製零件檔</p>
 <p>
