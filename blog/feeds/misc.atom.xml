@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-23T10:42:44+08:00</updated><entry><title>w16</title><link href="./w16.html" rel="alternate"></link><published>2022-06-09T13:20:00+08:00</published><updated>2022-06-23T10:42:44+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-06-09:./w16.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-23T19:45:17+08:00</updated><entry><title>w17</title><link href="./w17.html" rel="alternate"></link><published>2022-06-16T13:20:00+08:00</published><updated>2022-06-23T19:45:17+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-06-16:./w17.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+
+&lt;p&gt;w17&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;利用&lt;/span&gt;&lt;span&gt;UARM&lt;/span&gt;&lt;span&gt;來執行Tic-Tae-Toe遊戲模擬&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/OOXX.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w16</title><link href="./w16.html" rel="alternate"></link><published>2022-06-09T13:20:00+08:00</published><updated>2022-06-23T10:42:44+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-06-09:./w16.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 &lt;p&gt;w16
