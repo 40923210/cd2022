@@ -1,5 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-16T21:27:56+08:00</updated><entry><title>w14</title><link href="./w14.html" rel="alternate"></link><published>2022-05-26T13:20:00+08:00</published><updated>2022-06-09T14:27:49+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-26:./w14.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-06-23T10:42:44+08:00</updated><entry><title>w16</title><link href="./w16.html" rel="alternate"></link><published>2022-06-09T13:20:00+08:00</published><updated>2022-06-23T10:42:44+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-06-09:./w16.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
+
+&lt;p&gt;w16
+Visualization Streem&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在 uArm 場景伺服器端, 解開壓縮檔案後, 以 CoppeliaSim 4.3.0 rev3 開啟 uarm_nx_tkinter_gui_control.ttt 或 uarm_nx_tkinter_gui_control_exhaustive.simscene.xml.&lt;/li&gt;
+&lt;li&gt;啟動模擬之前, 從 Modules 下拉式表單中的 Connectivity 右方表單中, 點選 Visualization Stream, 表示要啟動場景的視覺串流伺服器.&lt;/li&gt;
+&lt;li&gt;確定 Visualization Stream 顯示 running 後, 啟動 uarm_nx_tkinter_gui_control 場景模擬.&lt;/li&gt;
+&lt;li&gt;從&amp;nbsp;&lt;a href="https://github.com/CoppeliaRobotics/threejsFrontend/blob/master/simAddOnVisualization%20stream.lua#L17"&gt;simAddOnVisualization stream.lua&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;串流程式可知內定連線 port 為 23020 或可自行設定連線埠號, 並讓串流伺服器端的防火牆允許遠端特定的電腦 client 連線.&lt;/li&gt;
+&lt;li&gt;最後在 client 端以 SciTE 開啟&amp;nbsp;&lt;a href="https://github.com/mdecycu/cd2022_guide/blob/main/downloads/w15/tkinter_control/uarm_tkinter_control.py#L61"&gt;uarm_tkinter_control.py&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;配合修改串流伺服器對應的 IP 與埠號後執行. 便可透過瀏覽器檢視經由遠端 tkinter 介面控制下的 uArm 機械手臂各軸模擬運動.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/w16-1.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;online test&lt;/p&gt;
+&lt;p&gt;1.已知左側綠色底座的 uArm 機械手臂, 其基座座標原點位於絕對座標 (1.0, 0.25, 0), 啟動模擬後 green_suctionpad_frame 座標原點則位於 (0.22859, 0.26047, 0.36576), 請列出運算式說明, 啟動模擬後 joint1, joint2 與 joint3 分別以逆時針旋轉 5 度後, 求 green_suctionpad_frame 的絕對座標值.&lt;/p&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;
+&lt;p&gt;Ans:(x:+1.000 y:+0.2500 z:+0.1795)&lt;/p&gt;
+&lt;/div&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/online-1.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-------------------------------------&lt;/p&gt;
+&lt;p&gt;2.已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?&lt;/p&gt;
+&lt;p&gt;Ans:(a:-000.01 b:-000.047 g:-000.0060)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="/static" data-varname="winkVideoData"&gt; muted="true"&amp;gt;
+      &lt;source src="https://40923210.github.io/cd2022/downloads/online-2.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w14</title><link href="./w14.html" rel="alternate"></link><published>2022-05-26T13:20:00+08:00</published><updated>2022-06-09T14:27:49+08:00</updated><author><name>40923210</name></author><id>tag:None,2022-05-26:./w14.html</id><summary type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD &lt;/p&gt;
 
 &lt;p&gt;w14&lt;/p&gt;
